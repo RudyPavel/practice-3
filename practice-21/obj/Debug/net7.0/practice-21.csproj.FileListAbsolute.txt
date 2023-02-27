@@ -1,0 +1,15 @@
+C:\Users\yuliy\Desktop\dom.zadanie\practice 3\practice-3\practice-21\bin\Debug\net7.0\practice-21.exe
+C:\Users\yuliy\Desktop\dom.zadanie\practice 3\practice-3\practice-21\bin\Debug\net7.0\practice-21.deps.json
+C:\Users\yuliy\Desktop\dom.zadanie\practice 3\practice-3\practice-21\bin\Debug\net7.0\practice-21.runtimeconfig.json
+C:\Users\yuliy\Desktop\dom.zadanie\practice 3\practice-3\practice-21\bin\Debug\net7.0\practice-21.dll
+C:\Users\yuliy\Desktop\dom.zadanie\practice 3\practice-3\practice-21\bin\Debug\net7.0\practice-21.pdb
+C:\Users\yuliy\Desktop\dom.zadanie\practice 3\practice-3\practice-21\obj\Debug\net7.0\practice-21.csproj.AssemblyReference.cache
+C:\Users\yuliy\Desktop\dom.zadanie\practice 3\practice-3\practice-21\obj\Debug\net7.0\practice-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuliy\Desktop\dom.zadanie\practice 3\practice-3\practice-21\obj\Debug\net7.0\practice-21.AssemblyInfoInputs.cache
+C:\Users\yuliy\Desktop\dom.zadanie\practice 3\practice-3\practice-21\obj\Debug\net7.0\practice-21.AssemblyInfo.cs
+C:\Users\yuliy\Desktop\dom.zadanie\practice 3\practice-3\practice-21\obj\Debug\net7.0\practice-21.csproj.CoreCompileInputs.cache
+C:\Users\yuliy\Desktop\dom.zadanie\practice 3\practice-3\practice-21\obj\Debug\net7.0\practice-21.dll
+C:\Users\yuliy\Desktop\dom.zadanie\practice 3\practice-3\practice-21\obj\Debug\net7.0\refint\practice-21.dll
+C:\Users\yuliy\Desktop\dom.zadanie\practice 3\practice-3\practice-21\obj\Debug\net7.0\practice-21.pdb
+C:\Users\yuliy\Desktop\dom.zadanie\practice 3\practice-3\practice-21\obj\Debug\net7.0\practice-21.genruntimeconfig.cache
+C:\Users\yuliy\Desktop\dom.zadanie\practice 3\practice-3\practice-21\obj\Debug\net7.0\ref\practice-21.dll

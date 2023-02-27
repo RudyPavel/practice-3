@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yuliy\\Desktop\\dom.zadanie\\practice 3\\practice-3\\practice-3.csproj": {}
+    "C:\\Users\\yuliy\\Desktop\\dom.zadanie\\practice 3\\practice-3\\practice-19\\practice-19.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yuliy\\Desktop\\dom.zadanie\\practice 3\\practice-3\\practice-3.csproj": {
+    "C:\\Users\\yuliy\\Desktop\\dom.zadanie\\practice 3\\practice-3\\practice-19\\practice-19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yuliy\\Desktop\\dom.zadanie\\practice 3\\practice-3\\practice-3.csproj",
-        "projectName": "practice-3",
-        "projectPath": "C:\\Users\\yuliy\\Desktop\\dom.zadanie\\practice 3\\practice-3\\practice-3.csproj",
+        "projectUniqueName": "C:\\Users\\yuliy\\Desktop\\dom.zadanie\\practice 3\\practice-3\\practice-19\\practice-19.csproj",
+        "projectName": "practice-19",
+        "projectPath": "C:\\Users\\yuliy\\Desktop\\dom.zadanie\\practice 3\\practice-3\\practice-19\\practice-19.csproj",
         "packagesPath": "C:\\Users\\yuliy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yuliy\\Desktop\\dom.zadanie\\practice 3\\practice-3\\obj\\",
+        "outputPath": "C:\\Users\\yuliy\\Desktop\\dom.zadanie\\practice 3\\practice-3\\practice-19\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yuliy\\AppData\\Roaming\\NuGet\\NuGet.Config"

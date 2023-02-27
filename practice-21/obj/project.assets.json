@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yuliy\\Desktop\\dom.zadanie\\practice 3\\practice-3\\practice-3.csproj",
-      "projectName": "practice-3",
-      "projectPath": "C:\\Users\\yuliy\\Desktop\\dom.zadanie\\practice 3\\practice-3\\practice-3.csproj",
+      "projectUniqueName": "C:\\Users\\yuliy\\Desktop\\dom.zadanie\\practice 3\\practice-3\\practice-21\\practice-21.csproj",
+      "projectName": "practice-21",
+      "projectPath": "C:\\Users\\yuliy\\Desktop\\dom.zadanie\\practice 3\\practice-3\\practice-21\\practice-21.csproj",
       "packagesPath": "C:\\Users\\yuliy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yuliy\\Desktop\\dom.zadanie\\practice 3\\practice-3\\obj\\",
+      "outputPath": "C:\\Users\\yuliy\\Desktop\\dom.zadanie\\practice 3\\practice-3\\practice-21\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yuliy\\AppData\\Roaming\\NuGet\\NuGet.Config"
